@@ -2,18 +2,18 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Ryan An - Portfolio",
+    "titleTemplate": "%s · Ryan An",
+    "description": "Ryan An's personal website.",
+    "author": "Ryan An",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Ryan An is a student of Computer Science at UC Berkeley.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "",
+      "github": "https://github.com/ryeii",
+      "medium": "",
+      "linkedin": "",
+      "mail": "mailto:credible.ryan@gmail.com"
     }
   },
   "siteConfiguration": {
