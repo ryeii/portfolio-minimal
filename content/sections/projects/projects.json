@@ -7,7 +7,7 @@
       "description": "Explore multiple algorithms to solve a Sudoku puzzle, from brute-force to SOTA Machine Learning models.",
       "tags": ["Hobby", "ML", "Algorithms"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/sudoku.png",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/ryeii/SUdokU"
       },
