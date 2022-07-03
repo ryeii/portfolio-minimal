@@ -1,7 +1,7 @@
 {
   "intro": "Hi",
   "heroPhoto": {
-    "src": "../../images/cat.JPG",
+    "src": "../../images/avatar.JPG",
     "alt": "My Photo"
   },
   "image": {
@@ -11,12 +11,12 @@
   "title": "I'm Ryan An",
   "subtitle": {
     "prefix": "I love cool ",
-    "highlight": "AI & ML",
+    "highlight": "RL & Robotics",
     "suffix": " projects."
   },
   "description": "",
   "socialProfiles": {
     "from": ["Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

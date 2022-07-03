@@ -1,8 +1,8 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/dog.JPG"
+imageAlt: "dog"
 ---
 
-Ryan An is an undergraduate student at UC Berkeley, majoring in Computer Science.
+Ryan An is an undergraduate CS student @ UC Berkeley and an independent developer based in San Francisco Bay Area.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Photo of Ryan's dog, called Wangcai, 2022 in Beijing
