@@ -6,7 +6,7 @@ imageAlt: "dog"
 Ryan An is an undergraduate CS student @ <u>UC Berkeley</u> and an independent developer based in <u>San Francisco Bay Area</u>.
 
 Interests:
- - Reinforcement learning
+ - Reinforcement Learning
  - Autonomous Robots
  - Ethical & Responsible AI
 
