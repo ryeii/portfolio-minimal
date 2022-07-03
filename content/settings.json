@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "https://ryeii.github.io/assets/Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
