@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Ryan An",
     "description": "Ryan An's personal website.",
     "author": "Ryan An",
-    "avatar": "../content/images/cat.JPG",
+    "avatar": "../content/images/avatar.jpg",
     "bio": "Ryan An is a CS undergraduate at UC Berkeley.",
     "social": {
       "behance": "",
@@ -23,7 +23,7 @@
         { "label": "About", "url": "/#about" },
         { "label": "Skills", "url": "/#interests" },
         { "label": "Projects", "url": "/#projects" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,

@@ -3,7 +3,7 @@ imageSrc: "../../images/dog.JPG"
 imageAlt: "dog"
 ---
 
-Ryan An is an undergraduate CS student @ UC Berkeley and an independent developer based in San Francisco Bay Area.
+Ryan An is an undergraduate CS student @ <u>UC Berkeley</u> and an independent developer based in <u>San Francisco Bay Area</u>.
 
 Interests:
  - Reinforcement learning
