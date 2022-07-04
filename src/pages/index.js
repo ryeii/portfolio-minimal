@@ -19,7 +19,7 @@ export default function IndexPage() {
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
         <AboutSection sectionId="about" heading="About Ryan" />
         <AboutSection sectionId="courseworks" heading="Relevant Coursework" />
-        <InterestsSection sectionId="details" heading="Skills and Technologies" />
+        <InterestsSection sectionId="details" heading="Skills & Technologies" />
         <ProjectsSection sectionId="projects" heading="Projects" />
         <ContactSection sectionId="github" heading="Contact" />
       </Page>
