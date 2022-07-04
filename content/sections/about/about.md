@@ -15,4 +15,4 @@ Coding languages:
  - Proficient: Java, C/C++, R, Go, SQL, Latex
  - Familiar: Assembly (RISC-V, x86), LISP, HTML/CSS, Javascript, Swift, Shell Scripting
 
-Photo of Ryan's dog, called Wangcai, 2022 in Beijing
+Photo of Ryan's dog, Wangcai, 2022 in Beijing
