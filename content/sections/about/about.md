@@ -5,17 +5,17 @@ imageAlt: "dog"
 
 Ryan An is an undergraduate CS student @ <u>UC Berkeley</u> and an independent developer based in <u>San Francisco Bay Area</u>.
 
-# Interests:
+Interests:
  - Reinforcement Learning
  - Autonomous Robots
  - Ethical & Responsible AI
 
-# Coding languages:
+Coding languages:
  - Expert: Python
  - Proficient: Java, C/C++, R, Go, SQL, Latex
  - Familiar: Assembly (RISC-V, x86), LISP, HTML/CSS, Javascript, Swift, Shell Scripting
 
-# Relevant Coursework
+<!-- # Relevant Coursework
 
 ### Technical
 * **EECS 16A:** Designing Information Devices and Systems I [[website]](https://www.eecs16a.org/)
@@ -29,6 +29,6 @@ Ryan An is an undergraduate CS student @ <u>UC Berkeley</u> and an independent d
 ### Non-technical
 * **MATH 53:** Multivariable Calculus [[MIT-Open-Course]](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 * **MATH 113:** Introduction to Abstract Algebra [[notes]](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf)
-* **PHILOS 12A:** Introduction to Logic [[notes]]({{ site.baseurl }}class_notes/W12A_notes.pdf)
+* **PHILOS 12A:** Introduction to Logic [[notes]]({{ site.baseurl }}class_notes/W12A_notes.pdf) -->
 
 Photo of Ryan's dog, called Wangcai, 2022 in Beijing
