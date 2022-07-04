@@ -3,14 +3,14 @@
     {
       "label": "Tensorflow",
       "image": {
-        "src": "../../images/tensor.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "Pytorch",
       "image": {
-        "src": "../../images/torch.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
@@ -24,7 +24,7 @@
     {
       "label": "sklearn",
       "image": {
-        "src": "../../images/learn.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
@@ -38,7 +38,7 @@
     {
       "label": "Matlab",
       "image": {
-        "src": "../../images/matlab.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
