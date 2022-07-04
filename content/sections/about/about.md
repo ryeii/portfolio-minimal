@@ -12,7 +12,7 @@ Interests:
 
 Coding languages:
  - Expert: Python
- - Proficient: Java, C/C++, R, Go, Latex
- - Familiar: Assembly (RISC-V, x86), HTML/CSS
+ - Proficient: Java, C/C++, R, Go, SQL, Latex
+ - Familiar: Assembly (RISC-V, x86), LISP, HTML/CSS, Javascript, Swift, Shell Scripting
 
 Photo of Ryan's dog, called Wangcai, 2022 in Beijing
