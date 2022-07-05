@@ -13,8 +13,9 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
-      <Page useSplashScreenAnimation>
+      <Seo title="Ryan's Portfolio" />
+      {/* <Page useSplashScreenAnimation> */}
+      <Page>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
         <AboutSection sectionId="about" heading="About Ryan" />
